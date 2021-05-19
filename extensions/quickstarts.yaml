@@ -10,3 +10,7 @@ spec:
     includes:
     - ".*"
     excludes: []
+  - file: versionStream/mlquickstarts.yaml
+    includes:
+    - ".*"
+    excludes: []
